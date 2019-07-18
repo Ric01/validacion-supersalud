@@ -1,8 +1,6 @@
 import hcpregistry as hcp
 
-hcp = hcp.HcpRegistry(rut="17617063", nombre="Prueba")
-hcp.rut = "17617063"
-hcp.rut = "17617063"
+hcp = hcp.HcpRegistry(rut="22603251", nombre="Prueba")
 
 
 hcp.check_registry()
